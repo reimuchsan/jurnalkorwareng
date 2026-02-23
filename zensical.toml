@@ -46,11 +46,46 @@ Copyright &copy; 2026 reimuchsan
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
   {"Home" = "index.md"},
-  {"About" = [
-     "about/index.md",
-     "about/vision.md",
-     "about/team.md"
-  ]}
+  {"WARENG'ESO" = [
+      "WARENG-ESO/index.md",
+      {"Dasar" = [
+          "WARENG-ESO/Dasar/Huruf.md",
+          "WARENG-ESO/Dasar/Angka.md",
+          "WARENG-ESO/Dasar/Tata Bahasa.md"
+        ]
+      },
+      {"Lembar FC" = [
+          "WARENG-ESO/Lembar FC/Keterangan Tempat = 장소.md",
+          "WARENG-ESO/Lembar FC/Warna = 색깔.md",
+          "WARENG-ESO/Lembar FC/Keterangan Frekuensi.md",
+          "WARENG-ESO/Lembar FC/Lawan Kata = 반데단어.md",
+          "WARENG-ESO/Lembar FC/수량사 = Kata Satuan.md",
+          "WARENG-ESO/Lembar FC/서류 와 카드 = Dokumen dan Kartu.md",
+          "WARENG-ESO/Lembar FC/동사 = Kata Kerja.md",
+          "WARENG-ESO/Lembar FC/Kata Kerja = 동사.md",
+          "WARENG-ESO/Lembar FC/Latihan Kata = 단어 연습.md",
+          "WARENG-ESO/Lembar FC/Penyakit = 병.md",
+          "WARENG-ESO/Lembar FC/Perhitungan Hari.md",
+          "WARENG-ESO/Lembar FC/Keluarga = 가족.md",
+          "WARENG-ESO/Lembar FC/인사말 = Ungkapan Salam.md",
+          "WARENG-ESO/Lembar FC/명사 = Kata Benda.md",
+          "WARENG-ESO/Lembar FC/Buah = 과일.md",
+          "WARENG-ESO/Lembar FC/명칭 = Anggota Tubuh.md",
+          "WARENG-ESO/Lembar FC/Waktu = 시간.md",
+          "WARENG-ESO/Lembar FC/Cuaca = 날씨.md",
+          "WARENG-ESO/Lembar FC/Sayuran = 야체 - 체소료.md"
+        ]
+      },
+    ]
+  },
+  {"Guide" = [
+    "Guide/index.md",
+      {"Aplikasi" = [
+          "Guide/Aplikasi/index.md"
+        ]
+      },
+    ]
+  },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -210,7 +245,7 @@ features = [
     # When pruning is enabled, only the visible navigation items are included
     # in the rendered HTML, reducing the size of the built site by 33% or more.
     # https://zensical.org/docs/setup/navigation/#navigation-pruning
-    #"navigation.prune",
+    "navigation.prune",
 
     # When sections are enabled, top-level sections are rendered as groups in
     # the sidebar for viewports above 1220px, but remain as-is on mobile.
