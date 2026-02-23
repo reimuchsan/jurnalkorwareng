@@ -51,7 +51,7 @@ nav = [
       {"Dasar" = [
           "WARENG-ESO/Dasar/Huruf.md",
           "WARENG-ESO/Dasar/Angka.md",
-          "WARENG-ESO/Dasar/Tata Bahasa.md",
+          "WARENG-ESO/Dasar/Tata Bahasa.md"
         ]
       },
       {"Lembar FC" = [
@@ -73,9 +73,9 @@ nav = [
           "WARENG-ESO/Lembar FC/명칭 = Anggota Tubuh.md",
           "WARENG-ESO/Lembar FC/Waktu = 시간.md",
           "WARENG-ESO/Lembar FC/Cuaca = 날씨.md",
-          "WARENG-ESO/Lembar FC/Sayuran = 야체 - 체소료.md",
+          "WARENG-ESO/Lembar FC/Sayuran = 야체 - 체소료.md"
         ]
-      },
+      }
     ]
   },
   {"Guide" = [
@@ -83,9 +83,9 @@ nav = [
       {"Aplikasi" = [
           "Guide/Aplikasi/index.md"
         ]
-      },
+      }
     ]
-  },
+  }
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
