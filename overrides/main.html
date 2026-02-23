@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{ super() }}
+
+  {# Check if the page metadata exists and contains our dates #}
+  {% if page and page.meta %}
+    <div style="margin-top: 20px; font-size: 0.9em; color: var(--md-default-fg-color--light);">
+      {% if page.meta.created %}
+        <span>📅 Created: {{ page.meta.created }}</span>
+      {% endif %}
+      {% if page.meta.updated %}
+        <span> ✏️ Updated: {{ page.meta.updated }}</span>
+      {% endif %}
+    </div>
+  {% endif %}
+{% endblock %}

@@ -1,3 +1,7 @@
+---
+created: Friday, February 20, 2026 5:08:50 PM
+updated: Monday, February 23, 2026 7:16:26 AM
+---
 # Latihan Kata = 단어 연습
 
 1. 식사를하다 : Makan

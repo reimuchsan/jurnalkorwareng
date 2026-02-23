@@ -1,3 +1,7 @@
+---
+created: Friday, February 20, 2026 5:08:50 PM
+updated: Monday, February 23, 2026 7:16:26 AM
+---
 # 서류 와 카드 = Dokumen dan Kartu
 
 1. 여권 : Paspor

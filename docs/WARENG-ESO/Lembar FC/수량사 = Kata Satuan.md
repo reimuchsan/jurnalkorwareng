@@ -1,3 +1,7 @@
+---
+created: Friday, February 20, 2026 5:08:50 PM
+updated: Monday, February 23, 2026 7:16:26 AM
+---
 # 수량사 = Kata Satuan
 
 1. Orang : 사람 / 명 / 분

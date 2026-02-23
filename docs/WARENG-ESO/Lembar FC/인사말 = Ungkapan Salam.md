@@ -1,3 +1,7 @@
+---
+created: Friday, February 20, 2026 5:08:50 PM
+updated: Monday, February 23, 2026 7:16:26 AM
+---
 # 인사말 = Ungkapan Salam
 
 1. 안녕하세요 / 안녕하십니까 : Selamat pagi/siang/sore/malam
