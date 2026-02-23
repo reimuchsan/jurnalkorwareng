@@ -1,5 +1,5 @@
 {
-  "installCommand": "pip3 install uv", //
+  "installCommand": "pip3 install uv",
   "buildCommand": "uv sync && uv run zensical build --clean",
   "outputDirectory": "site"
 }
