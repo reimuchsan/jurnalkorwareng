@@ -1,6 +1,6 @@
 # Project information
 site_name: Jurnal Korea
-site_url: https://reimuchsan.github.io/jurnalkorwareng/
+site_url: https://jurnalkorwareng.vercel.app/
 site_description: >-
   Materi atau catatan acak tentang Korea
 
@@ -112,3 +112,5 @@ nav:
     - "Guide/index.md"
     - Aplikasi:
         - "Guide/Aplikasi/index.md"
+    - Resources:
+        - "Guide/Resources/index.md"

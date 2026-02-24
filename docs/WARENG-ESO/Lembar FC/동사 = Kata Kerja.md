@@ -6,14 +6,14 @@ updated: Monday, February 23, 2026 7:16:26 AM
 
 1. 건어가다 : Menyeberang 
 2. 나가다 : Keluar 
-3. 연락 하다 : Menghubungi 
+3. 연락하다 : Menghubungi 
 4. 닫다 : Menutup 
-5. 목욕 하다 : Mandi 
-6. 깨끗 하다 : Membersihkan 
+5. 목욕하다 : Mandi 
+6. 깨끗하다 : Membersihkan 
 7. 아프다 : Sakit 
-8. 따뜻 하다 : Hangat 
+8. 따뜻하다 : Hangat 
 9. 갈아입다 : Ganti baju
-10. 시작 하다 : Memulai 
+10. 시작하다 : Memulai 
 11. 예금하다 : Menabung 
 12. 열다 : Membuka 
 13. 샤워하다 : Mandi 

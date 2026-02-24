@@ -46,6 +46,6 @@ updated: Monday, February 23, 2026 7:16:26 AM
 9. 얼마나 동안 : Berapa lama
 10. 누구 : Siapa
 11. 몇 : Berapa
-12. 언제 보터 : Dari kapan
+12. 언제 부터 : Dari kapan
 13. 왜 : Mengapa
 14. 언제 : Kapan

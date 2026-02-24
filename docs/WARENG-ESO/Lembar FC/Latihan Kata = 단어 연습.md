@@ -12,15 +12,15 @@ updated: Monday, February 23, 2026 7:16:26 AM
 6. 옮기다 : Pindah (옴기다)
 7. 변경하다 : Pindah
 8. 찾다 : Mencari / mengambil 
-9. 일을 하다 : Bekerja 
-10. 전화를 걸다 : Menelepon 
+9. 일을하다 : Bekerja 
+10. 전화를걸다 : Menelepon 
 11. 짓다 : Membangun 
 12. 닦다 : Menggosok / ngepel
 13. 잡다 : Mendapatkan / pegang / tangkap
 14. 넣다 : Menaruh / mengisi
 15. 건너다 : Menyeberang 
 16. 올라가다 : Naik
-17. 공부를 하다 : Belajar 
+17. 공부를하다 : Belajar 
 18. 쉬다 : Istirahat 
 19. 포장하다 : Membungkus 
 20. 끄다 : Mematikan 
@@ -33,11 +33,11 @@ updated: Monday, February 23, 2026 7:16:26 AM
 27. 주차하다 : Parkir
 28. 수리하다 : Menyervis 
 29. 씻다 : Mencuci
-30. 수영을 하다 : Renang 
+30. 수영을하다 : Renang 
 31. 부르다 : Nyanyi / panggil / kenyang
 32. 시끄럽다 : Berisik 
-33. 세수를 하다 : Mencuci muka
-34. 세차를 하다 : Mencuci mobil
+33. 세수를하다 : Mencuci muka
+34. 세차를하다 : Mencuci mobil
 35. 치료하다 : Merawat 
 36. 피우다 : Menghisap 
 37. 소개하다 : Memperkenalkan 
@@ -50,7 +50,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 44. 복잡하다 : Macet
 45. 막히다 : Macet
 46. 고장나다 : Rusak
-47. 예약 하다 : Memesan (tempat)
+47. 예약하다 : Memesan (tempat)
 48. 잃어버리다 : Hilang / ketinggalan (이러버리다)
 49. 연장하다 : Memperpanjang
 50. 예메하다 : Memesan tiket
@@ -59,4 +59,4 @@ updated: Monday, February 23, 2026 7:16:26 AM
 53. 어기다 : Mengingkari
 54. 계산하다 : Menghitung
 55. 잊어버리다 : Lupa
-56. 사진을 찍다 : Memotret
+56. 사진을찍다 : Memotret

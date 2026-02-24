@@ -8,7 +8,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 2. Ekor (binatang) : 마리 
 3. Benda (buah) : 개 
 4. Mobil (unit) : 대    
-5. Buku (jilid) :권   
+5. Buku (jilid) : 권   
 6. Kertas (lembar) : 장       
 7. Pakaian (stel) : 벌      
 8. Botol : 병         
