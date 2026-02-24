@@ -1,4 +1,5 @@
 {
   "buildCommand": "uv sync && uv run zensical build --clean",
-  "outputDirectory": "site"
+  "outputDirectory": "site",
+  "trailingSlash": true
 }
