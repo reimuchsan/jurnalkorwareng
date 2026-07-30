@@ -2,7 +2,7 @@
 created: Friday, February 20, 2026 5:08:50 PM
 updated: Monday, February 23, 2026 7:16:26 AM
 ---
-# Lawan Kata = 반데단어
+# Lawan Kata = 반대 단어
 
 1. 많다 >< 적다  
 Banyak (만타)>< sedikit
@@ -26,15 +26,15 @@ Senggang >< sibuk
 Susah >< mudah
 11. 넓다 >< 좁다  
 Luas (널따)>< sempit
-12. 높다 >< 낫다  
+12. 높다 >< 낮다  
 Tinggi >< rendah
 13. 두껍다 >< 얇다  
 Tebal >< tipis (얄ː따)
 14. 길다 >< 짧다  
 Panjang >< pendek (짤따)
-15. 가갑다 >< 멀다  
+15. 가깝다 >< 멀다  
 Dekat >< jauh
-16. 뚱뚱하다 >< 날신하다  
+16. 뚱뚱하다 >< 날씬하다  
 Gemuk >< langsing
 17. 밝다 >< 어둡다  
 Terang (박따)>< gelap
@@ -52,7 +52,7 @@ Berangkat >< tiba
 Sama >< beda
 24. 자다 >< 일어나다  
 Tidur >< bangun tidur
-25. 입원 >< 튀원  
+25. 입원 >< 퇴원  
 Rawat inap >< rawat rumah
-26. 출근하다 >< 튀근하다  
+26. 출근하다 >< 퇴근하다  
 Berangkat kerja >< pulang kerja

@@ -43,9 +43,9 @@ updated: Monday, February 23, 2026 7:16:26 AM
 6. 어떤 : Yang bagaimana
 7. 어느 : Yang mana
 8. 무엇 : Apa
-9. 얼마나 동안 : Berapa lama
+9. 얼마나 동안 : Berapa lama (얼마 동안?)
 10. 누구 : Siapa
 11. 몇 : Berapa
-12. 언제 부터 : Dari kapan
+12. 언제부터 : Dari kapan
 13. 왜 : Mengapa
 14. 언제 : Kapan

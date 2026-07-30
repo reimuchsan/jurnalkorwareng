@@ -9,9 +9,9 @@ updated: Monday, February 23, 2026 7:16:26 AM
 3. Ayah : 아버지 
 4. Ibu : 어머니 
 5. Paman : 아저씨 
-6. Bibi : 아주마
+6. Bibi : 아주머니 / 아줌마
 7. Suami : 남편 
-8. Istri : 안내 
+8. Istri : 아내 
 9. Adik : 동생 
 10. Adik perempuan : 여동생 
 11. Adik laki-laki : 남동생 
@@ -19,7 +19,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 13. Anak perempuan : 딸
 14. Anak laki-laki : 아들 
 15. Bayi : 아기 
-16. Saudara : 형재
+16. Saudara : 형제
 17. Kakak perempuan (adik laki-laki) : 누나
 18. Kakak perempuan (adik perempuan) : 언니 
 19. Kakak laki-laki (adik perempuan) : 오빠 
@@ -28,4 +28,4 @@ updated: Monday, February 23, 2026 7:16:26 AM
 22. Ibu mertua : 시어머니 
 23. Memantu : 며느리 
 24. Pasutri : 부부 
-25. Orang tua : 부머님
+25. Orang tua : 부모님

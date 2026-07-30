@@ -5,10 +5,10 @@ updated: Monday, February 23, 2026 7:16:26 AM
 # Keterangan Frekuensi
 
 1. 가끔 : Kadang-kadang
-2. 잔깜 : Sebentar
+2. 잠깐 : Sebentar
 3. 일찍 : Lebih awal
 4. 갑자기 : Tiba-tiba
-5. 함깨 : Bersama
+5. 함께 : Bersama
 6. 그냥 : Mau nggak mau/sudahlah/hanya
 7. 금방 : Segera
 8. 곧 : Segera
@@ -21,7 +21,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 15. 벌써 : Sudah
 16. 계속 : Terus-menerus
 17. 별로 : Hampir tidak
-18. 훨신 : Jauh dibanding
+18. 훨씬 : Jauh dibanding
 19. 미리 : Sebelumnya
 20. 먼저 : Lebih dulu
 21. 우선 : Lebih dulu
@@ -35,9 +35,9 @@ updated: Monday, February 23, 2026 7:16:26 AM
 29. 잘 : Dengan baik/lancar
 30. 아까 : Tadi
 31. 아마 : Mungkin
-32. 재일 / 가장 : Yang paling
+32. 제일 / 가장 : Yang paling
 33. 깜빡 : Hampir
-34. 괘 : Cukup
+34. 꽤 : Cukup
 35. 모두 : Semua
 36. 정말 : Sungguh/beneran
 37. 좀 : Tolong sedikit
@@ -54,10 +54,10 @@ updated: Monday, February 23, 2026 7:16:26 AM
 48. 주로 : Biasanya
 49. 처음 : Pertama
 50. 더 : Tambah
-51. 떨 : Kurang
+51. 떨 : Kurang (tulisan 덜 dibaca 떨)
 52. 꼭 : Pastikan
-53. 떼떼로 : Kadang-kadang
-54. 마친 : Pas kebetulan
+53. 때때로 : Kadang-kadang
+54. 마침 : Pas kebetulan
 55. 매진 : Habis karena laris
 56. 대신 : Sebagai pengganti
 57. 내내 : Awal sampai akhir

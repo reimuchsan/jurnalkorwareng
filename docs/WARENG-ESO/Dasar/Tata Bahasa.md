@@ -136,10 +136,10 @@ Mas, mbak, pak, bu, Tn, Ny
 ---
 ## Kata tanya
 
-| 이것은 무엇**입니까**?                  | -> 그것은 책입니다                    |
-| ------------------------------- | ------------------------------ |
-| Ini benda apa adalah?           | Ini adalah buku                |
-| Kata tanya pasti pakai **입니까**? | Kalau menjawab pasti pakai 입니다 |
+| 이것은 무엇**입니까**?                  | -> 그것은 책**입니다**                    |
+| ------------------------------- | ---------------------------------- |
+| Ini benda apa adalah?           | Ini adalah buku                    |
+| Kata tanya pasti pakai **입니까**? | Kalau menjawab pasti pakai **입니다** |
 
 
 <div class="md-typeset__scrollwrap">

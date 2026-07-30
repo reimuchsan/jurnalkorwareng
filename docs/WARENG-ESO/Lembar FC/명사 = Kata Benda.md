@@ -24,7 +24,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 18. 쓰레기통 : Tempat sampah
 19. 안경 : Kaca mata
 20. 연필 : Pensil
-21. 연수증 : Kwitansi
+21. 영수증 : Kwitansi
 22. 옷장 : Lemari baju
 23. 우표 : Perangko
 24. 우산 : Payung
@@ -47,9 +47,9 @@ updated: Monday, February 23, 2026 7:16:26 AM
 40. 휴대전화 / 휴대폰 : Handphone
 41. 가습기 : Pelembab udara
 42. 거울 : Cermin
-43. 고무장갑 : Kaos tangan
-44. 교통카드 : Kartu lalulintas
-45. 귀덥개 : Pelindung telinga
+43. 고무장갑 : Kaos tangan (Sarung tangan karet)
+44. 교통카드 : Kartu lalulintas (Kartu transportasi / Kartu bus)
+45. 귀덮개 : Pelindung telinga
 46. 꽃 : Bunga
 47. 나무 : Pohon
 48. 난로 : Penghangat ruangan
@@ -83,7 +83,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 75. 온도계 : Pengukur suhu
 76. 옷걸이 : Gantungan baju  
 ...
-77. 이불 / 담 : Selimut
+77. 이불 / 담요 : Selimut
 78. 저울 : Timbangan barang
 79. 전기밥솥 : Alat penanak nasi
 80. 전자사전 : Kamus elektrik

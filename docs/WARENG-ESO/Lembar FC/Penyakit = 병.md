@@ -5,7 +5,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 # Penyakit = 병
 
 1. 기침 : Batuk
-2. 칱통 : Sakit gigi
+2. 치통 : Sakit gigi
 3. 설사 : Mencret
 4. 열이 : Demam
 5. 감기걸려서 : Meriang
@@ -21,12 +21,12 @@ updated: Monday, February 23, 2026 7:16:26 AM
 15. 치금연 : Radang gusi
 16. 월경 : Menstruasi
 17. 여드름 : Jerawat
-18. 류우머티즘 : Linu
+18. 류머티즘 : Linu
 19. 토하다 : Muntah
 ---
 ## Kata-kata yang menyertai 
 
-1. 증산 : Gejala
+1. 증상 : Gejala
 2. 온몸이 : Sekujur tubuh
 3. 치과 : Klinik gigi / dokter gigi
 4. 안과 : Klinik mata / dokter mata

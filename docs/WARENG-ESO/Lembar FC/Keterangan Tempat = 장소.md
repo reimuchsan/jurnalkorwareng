@@ -18,9 +18,9 @@ updated: Monday, February 23, 2026 7:16:26 AM
 12. Gunung : 산
 13. Halte Bus : 정류장
 14. Jalan Tol : 고속도로
-15. Kantor : 사모실
+15. Kantor : 사무실
 16. Kantor Imigrasi : 출입국
-17. Kantor Polisi : 경찰사
+17. Kantor Polisi : 경찰서
 18. Kantor Pos : 우체국
 19. Kedutaan : 대사관
 20. Kolam Renang : 수영장

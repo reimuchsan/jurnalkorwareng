@@ -13,10 +13,10 @@ updated: Monday, February 23, 2026 7:16:26 AM
 7. Tujuh hari : 이레
 8. Delapan hari : 여드레
 9. Sembilan hari : 아흐레
-10. Sepuluh hari : 일흘 / 열을 
+10. Sepuluh hari : 일흘 / 열을 (열흘?)
 ---
 ## Posisi
-1. Utara : 복 
+1. Utara : 북 
 2. Selatan : 남 
 3. Timur : 동 
 4. Barat : 서 
@@ -26,7 +26,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 ## Nama hari = 일자 
 
 1. Senin : 월요일 
-2. Selasa : 와요일 
+2. Selasa : 화요일 
 3. Rabu : 수요일 
 4. Kamis : 목요일 
 5. Jumat : 금요일 

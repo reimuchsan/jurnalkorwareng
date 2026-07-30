@@ -2,7 +2,7 @@
 name = "warengeso"
 version = "1.0.0"
 description = "Personal blog built with zensical"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = [
     "zensical"
 ]

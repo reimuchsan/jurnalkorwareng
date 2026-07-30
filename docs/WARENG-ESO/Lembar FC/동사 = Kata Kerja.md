@@ -4,7 +4,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 ---
 # 동사 = Kata Kerja
 
-1. 건어가다 : Menyeberang 
+1. 건너가다 : Menyeberang 
 2. 나가다 : Keluar 
 3. 연락하다 : Menghubungi 
 4. 닫다 : Menutup 
@@ -34,7 +34,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 9. 어부 : Nelayan 
 10. 학생 : Siswa 
 11. 근로자 : Pekerja 
-12. 연수자 : Trainer 
+12. 연수자 : Trainee (Trainer adalah **연수 교사** atau **강사**)
 13. 배우 : Aktor 
 14. 공무원 : Pegawai negeri 
 15. 농부 : Petani 
@@ -46,7 +46,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 21. 소방관 : Pemadam kebakaran 
 22. 대학생 : Mahasiswa 
 23. 선생님 : Guru 
-24. 통역 : Penerjemah 
+24. 통역 : Penerjemah (통역사)
 25. 가수 : Penyanyi 
 26. 공장장님 : Kepala pabrik 
 ---

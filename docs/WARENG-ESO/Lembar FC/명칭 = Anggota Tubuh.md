@@ -11,7 +11,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 5. 코 : Hidung
 6. 눈 : Mata
 7. 귀 : Telinga
-8. 어께 : Pundak
+8. 어깨 : Pundak
 9. 가슴 : Dada
 10. 팔 : Lengan
 11. 손 : Tangan
@@ -31,11 +31,11 @@ updated: Monday, February 23, 2026 7:16:26 AM
 25. 혀 : Lidah
 26. 손가락 : Jari tangan
 27. 뇌 : Otak
-28. 근골격계 : Otot
-29. 심열관 / 심장 : Jantung
+28. 근골격계 : Otot dan tulang (otot = 근육)
+29. 심혈관 / 심장 : Jantung
 30. 폐 : Paru-paru
 31. 신 / 콩팥 : Ginjal
-32. 무릅 : Lutut
+32. 무릎 : Lutut
 33. 발목 / 손목 : Pergelangan kaki/Pergelangan tangan
 ---
 ## 맛 = Rasa
@@ -45,7 +45,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 3. 짜다 : Asin
 4. 맵다 : Pedas
 5. 시다 : Asam
-6. 신겁다 : Hambar
+6. 싱겁다 : Hambar
 7. 맛있다 : Lezat
 8. 맛없다 : Tidak enak
 ---
@@ -60,15 +60,15 @@ updated: Monday, February 23, 2026 7:16:26 AM
 7. 독일 : Jerman
 8. 인도 : India
 9. 태국 : Thailand
-10. 배테남 : Vietnam
+10. 베트남 : Vietnam
 11. 필리핀 : Filiphina
 12. 네팔 : Nepal
-13. 방글라대시 : Banglades
+13. 방글라데시 : Banglades
 ---
 ## Mencuci
 
 1. 씻다 : Di ujung tangan
-2. 설거지를하다 : Piring, Gelas
-3. 빨래를하다 : Pakaian
-4. 세수를하다 : Muka
-5. 세차를하다 : Mobil
+2. 설거지를 하다 : Piring, Gelas
+3. 빨래를 하다 : Pakaian
+4. 세수를 하다 : Muka
+5. 세차를 하다 : Mobil

@@ -21,17 +21,17 @@ updated: Monday, February 23, 2026 7:16:26 AM
 15. 콩 : Kacang soya
 16. 차나물 : Daun seledri
 17. 풀의일종 : Daun serai
-18. 땅공 : Kacang
+18. 땅콩 : Kacang
 19. 무우 : Lobak
 20. 아스파라거스 : Asparagus
-21. 양패추 : Kubis
+21. 양배추 : Kubis
 22. 옥수수 : Jagung
 23. 강낭콩 : Kacang tanah
 24. 토마토 : Tomat
 25. 파슬리 : Petai
 26. 피망 : Paprika
 27. 녹두 : Kacang hijau
-28. 픗고추 : Cabai hijau
+28. 풋고추 : Cabai hijau
 29. 고추 : Cabai
 ---
 ## Lalu lintas = 교통

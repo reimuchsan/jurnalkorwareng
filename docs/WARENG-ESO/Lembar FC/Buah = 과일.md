@@ -8,7 +8,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 2. 포도 : Anggur
 3. 사과 : Apel
 4. 딸기 : Stroberi
-5. 귤 / 오랜지 : Jeruk
+5. 귤 / 오렌지 : Jeruk
 6. 바나나 : Pisang
 7. 참외 : Melon
 8. 배 : Pir
@@ -27,14 +27,14 @@ updated: Monday, February 23, 2026 7:16:26 AM
 8. 수영 : Renang
 9. 스키 : Ski
 10. 배드민턴 : Badminton
-11. 택원도 : Taekwondo
+11. 태권도 : Taekwondo
 12. 유도 : Yudo
 13. 낚시 : Mancing
-14. 채조 : Senam
+14. 체조 : Senam
 ---
 ## Letak = 위치 
 
-1. 외 : Atas
+1. 위 : Atas
 2. 아래 / 밑 : Bawah
 3. 앞 : Depan
 4. 뒤 : Belakang
@@ -53,11 +53,11 @@ updated: Monday, February 23, 2026 7:16:26 AM
 17. 근처 : Sekitar
 18. 사거리 : Perempatan
 19. 각 / 구석 : Pojok/sudut
-20. 반데 : Di sebaliknya
+20. 반대 : Di sebaliknya
 21. 동 : Timur
 22. 서 : Barat
 23. 남 : Selatan
-24. 복 : Utara
+24. 북 : Utara
 ---
 ## Perasaan = 기분 / 마음
 
@@ -65,7 +65,7 @@ updated: Monday, February 23, 2026 7:16:26 AM
 2. 기쁘다 : Gembira
 3. 행복하다 : Bahagia
 4. 좋아하다 : Suka (조아하다)
-5. 슬쁘다 : Sedih
+5. 슬프다 : Sedih
 6. 부럽다 : Iri
 7. 화가나다 : Marah
 8. 무섭다 : Takut
